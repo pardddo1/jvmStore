@@ -6,6 +6,7 @@ public class main_prueba {
 		// TODO Auto-generated method stub
 		
 		System.out.println("marica");
+		System.err.println("hijoputa");
 
 	}
 

@@ -7,6 +7,7 @@ public class main_prueba {
 		
 		System.out.println("marica");
 		System.err.println("yonki");
+		System.out.println("jorge puta zorra");
 
 	}
 
